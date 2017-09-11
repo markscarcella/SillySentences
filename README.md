@@ -1,7 +1,7 @@
 # SillySentences
 A silly little python gui that can generate simple sentences such as "The smelly dog jumps occasionally."
 
-Basic program adds a window with a title, background, button, and text box. Clicking the button generates a sentence of the form "The <adjective> <noun> <verb> <adverb>.", which can be extended if you like!
+Basic program adds a window with a title, background, button, and text box. Clicking the button generates a sentence of the form `The <adjective> <noun> <verb> <adverb>.`, which can be extended if you like!
 
 Coding concepts covered:
   - Variables (eg. window)
